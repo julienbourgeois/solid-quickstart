@@ -9,7 +9,7 @@ export default function Home() {
       <Counter />
       <p>
        
-        to learn the boat.
+        connaitre le bateau 
       </p>
     </main>
   );
