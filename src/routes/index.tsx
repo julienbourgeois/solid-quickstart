@@ -5,14 +5,11 @@ export default function Home() {
   return (
     <main>
       <Title>BAG MELEN</Title>
-      <h1>Hello world!</h1>
+      <h1>Bag Melen</h1>
       <Counter />
       <p>
-        Visit{" "}
-        <a href="https://start.solidjs.com" target="_blank">
-          start.solidjs.com
-        </a>{" "}
-        to learn how to build SolidStart apps.
+       
+        to learn the boat.
       </p>
     </main>
   );
